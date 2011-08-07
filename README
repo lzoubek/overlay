@@ -1,0 +1,3 @@
+Adding this overlay to layman:
+
+layman -o 'https://raw.github.com/lzoubek/overlay/master/layman/overlay.xml' -f -k -a jezzovo

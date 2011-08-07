@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<layman>
+	<overlay
+		type	= "git"
+		src	= "git://github.com/lzoubek/overlay.git"
+		contact	= "xmpp:jezz@jezzovo.net"
+		name	= "jezzovo">
+			<link>https://github.com/lzoubek</link>
+			<description>Jezzovo personal overlay</description>
+	</overlay>
+</layman>
